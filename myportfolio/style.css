@@ -1,0 +1,58 @@
+:root{
+    --db:#132043;
+
+    --blue:#1F4172;
+    --safron:#F1B4BB;
+    --smokewhite:#FDF0F0;
+}
+
+body{
+    background-color: rgb(49, 205, 137);  
+    background-image:url(https://images.pexels.com/photos/6387866/pexels-photo-6387866.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2);
+}
+.head{
+    display: flex;
+    
+}
+.logo{
+    color: red;
+}
+.head ul{
+   display: flex;
+   margin-top: 25px;
+   font-size: 1.2em;
+   margin-left: 20px;
+   font-style: italic;
+   
+
+   
+}
+.head ul li{
+    padding: 0px 20px;
+    text-align: right;
+   
+    
+}
+.head ul li a{
+    color:#1F4172;
+    text-decoration: none;
+}
+.head  ul li a:hover{
+    color: red;
+    transition: 0.7s;
+    
+}
+.info{
+    width: 410px;
+    text-align: center;
+    padding: 150px 0px 0px 250px;
+    font-size: 2em;
+    color:var(--db);
+    
+}
+.sss{
+    display: flex;
+}
+
+
+

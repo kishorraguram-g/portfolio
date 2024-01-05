@@ -1,0 +1,65 @@
+body{
+    background-image: url(https://th.bing.com/th/id/OIP.1Wd11So0xosR8h5LQNwhigHaEo?pid=ImgDet&rs=1);
+}
+.lis{
+    font-size: 3em;
+    color: rgba(44, 237, 23, 0.76);
+   
+}
+.lis a{
+    text-decoration: none;
+}
+.lis a:hover{
+    color: rgb(0, 0, 0);
+    transition: 1.5s;
+}
+.uli .lis{
+    text-decoration: none;
+    margin: 50px 80px 0px 550px;
+    
+}
+
+.hea{
+    font-size: 3em;
+    color: darkgray;
+    
+}
+
+.head{
+    display: flex;
+    
+}
+.logo{
+    color: red;
+}
+.head ul{
+   display: flex;
+   margin-top: 25px;
+   font-size: 1.2em;
+   margin-left: 20px;
+   font-style: italic;
+   
+
+   
+}
+.head ul li{
+    padding: 0px 20px;
+    text-align: right;
+   
+    
+}
+.head ul li a{
+    color:#0ac714;
+    text-decoration: none;
+}
+.head  ul li a:hover{
+    color: red;
+    transition: 0.7s;
+    
+}
+.head .logo ul li a{
+    font-size: 2em;
+}
+.lis a {
+    color: orange;
+}

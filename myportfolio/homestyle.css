@@ -1,0 +1,50 @@
+.home{
+    width: 700px;
+    text-align: center;
+    padding: 100px 0px 0px 300px;
+    color:#61d732;
+    font-size: 2em;
+
+}
+body{
+    background-image: url(https://images.pexels.com/photos/3689659/pexels-photo-3689659.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2);
+}
+.head{
+    display: flex;
+    
+}
+.logo{
+    color: red;
+}
+.head ul{
+   display: flex;
+   margin-top: 25px;
+   font-size: 1.2em;
+   margin-left: 250px;
+   font-style: italic;
+   
+
+   
+}
+.home{
+    color: white;
+}
+
+.head ul li{
+    padding: 0px 20px;
+    text-align: right;
+    font-size: 1.7em;
+   
+    
+}
+.head ul li a{
+    color:#d80c50;
+    text-decoration: none;
+}
+.head  ul li a:hover{
+    color: rgb(43, 219, 24);
+    transition: 1s;
+}
+.ji li a{
+    font-size: 1.2em;
+}

@@ -1,0 +1,54 @@
+body{
+    background-image: url(https://images.pexels.com/photos/370717/pexels-photo-370717.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2);
+}
+.head{
+    display: flex;
+    
+}
+.logo{
+    color: red;
+}
+.head ul{
+   display: flex;
+   margin-top: 25px;
+   font-size: 1.2em;
+   margin-left: 20px;
+   font-style: italic;
+   
+
+   
+}
+.head ul li{
+    padding: 0px 20px;
+    text-align: right;
+    font-size: 2em;
+   
+    
+}
+.head ul li a{
+    color:#2bd910;
+    text-decoration: none;
+}
+.head  ul li a:hover{
+    color: red;
+    transition: 0.7s;
+}
+.c{
+    color: rgb(217, 21, 191);
+    margin: 150px 200px 100px 350px;
+    font-size: 3em;
+}
+.emoji{
+    font-size: 100px;
+}
+.sty
+{
+    display: flex;
+    margin: 0px 0px 0px 400px;
+}
+.al{
+    margin: -100px 0px 0px 0px;
+}
+.head ul li a{
+    font-size: 1.em;
+}
